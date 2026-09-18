@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Mi Proyecto ADSO</title>
-    <link rel="stylesheet" href="../../public/css/style.css">
+    <title>Login - Sistema de Gestión</title>
+    <link rel="stylesheet" href="../../public/css/estilo.css">
 </head>
 <body>
 
@@ -12,7 +12,6 @@
         <div class="login-card">
             <h2>Iniciar Sesión</h2>
             
-            <!-- Formulario de Login (Interfaz estática solicitada en la guía) -->
             <form action="#" method="POST">
                 <div class="form-group">
                     <label for="usuario">Usuario o Correo Electrónico</label>
@@ -40,9 +39,8 @@
         </div>
     </div>
 
-    <!-- Pie de página -->
     <footer>
-        <p>&copy; 2026 - Análisis y Desarrollo de Software (ADSO) | SENA</p>
+        <p>&copy; 2026 Nombre del Proyecto. Todos los derechos reservados.</p>
     </footer>
 
 </body>
